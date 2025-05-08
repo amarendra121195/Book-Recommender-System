@@ -3,4 +3,4 @@ pandas
 numpy
 PyYAML
 streamlit
--e .
+-e . #connect with setup file and setup file connet with all folder structures
