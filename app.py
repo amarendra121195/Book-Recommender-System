@@ -4,7 +4,7 @@ import pickle
 import streamlit as st
 import numpy as np
 from books_recommender.logger.log import logging
-from books_recommender.config.configuration import AppConfigurationScls
+from books_recommender.config.configuration import AppConfiguration
 from books_recommender.pipeline.training_pipeline import TrainingPipeline
 from books_recommender.exception.exception_handler import AppException
 
